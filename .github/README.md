@@ -62,8 +62,7 @@ If you wish to modify Tabbycat in a proprietary fashion we (the developers) are 
 
 Tabbycat was authored by Qi-Shan Lim for Auckland Australs in 2010. The current active developers are:
 
-- Philip Belesky
-- Chuan-Zheng Lee
-- Étienne Beaulé
+- Bagas Prayogo
+
 
 Please don't hesitate to contact us ([e-mail](mailto:contact@tabbycat-debate.org)) with any questions, suggestions, or generally anything relating to Tabbycat.
